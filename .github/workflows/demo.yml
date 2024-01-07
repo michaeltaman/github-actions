@@ -8,5 +8,5 @@ jobs:
         run: echo Hello GH Actions!
       - name: Print a few lines
         run: |
-          echo First line
-          echo Second Line
+          echo First line!
+          echo Second Line!
